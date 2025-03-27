@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+form{
+	background-color: green;
+	align-items:center;
+	justify-content:center;
+	border: solid;
+	border-radius: 10px;
+	
+}
+label{
+	color: red;
+	margin:20px;
+}
+input{
+	margin: 10px 10px 10px 10px;
+}
+#submit{
+	color: blue;
+	background-color: pink;
+	/* margin-left: 100px; */
+	
+	width:300px;
+	
+}
